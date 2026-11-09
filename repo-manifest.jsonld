@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/micromatch/micromatch/commit/8bd704ec0d9894693d35da425d827819916be920",
       "git:hexsha": "8bd704ec0d9894693d35da425d827819916be920",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.0.8"
     },
     {

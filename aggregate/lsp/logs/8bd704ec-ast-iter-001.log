@@ -1,0 +1,7 @@
+[2026-11-09T23:10:26Z] === AST ITERATION 1 START | repo=micromatch/micromatch sha=8bd704ec ===
+[2026-11-09T23:10:26Z] [iter=1] PHASE START: ast repo=micromatch/micromatch sha=8bd704ec
+[2026-11-09T23:10:26Z] [iter=1] Building AST aggregate chunks
+[2026-11-09T23:11:59Z] [iter=1] AST chunks built count=1 triples=810198
+[2026-11-09T23:11:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8bd704ec0d9894693d35da425d827819916be920/.complete
+[2026-11-09T23:11:59Z] [iter=1] PHASE END: ast elapsed_s=93 elapsed_min=1.6
+[2026-11-09T23:11:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
