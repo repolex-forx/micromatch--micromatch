@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/micromatch/micromatch/commit/8bd704ec0d9894693d35da425d827819916be920",
       "git:hexsha": "8bd704ec0d9894693d35da425d827819916be920",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.0.8"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.0.8",
+      "repolex:parsedAt": "2026-11-09T23:12:57.494171+00:00"
     },
     {
       "@id": "https://repolex.ai/r/micromatch/micromatch/commit/b4e3912b286ad667ba8929e3391de10268a54442",
